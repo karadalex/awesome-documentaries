@@ -8,9 +8,14 @@ project you agree to abide by its terms.
 
 Ensure your pull request adheres to the following guidelines:
 
-- Make sure you take care of this
-- And this as well
-- And don't forget to check this
+- Check if the link is working and pointing to the right location.
+- Check your spelling and grammar.
+- Choose the appropriate corresponding section.
+- The list, after your addition, should be sorted alphabetically.
+- Make an individual pull request for each suggestion.
+- If you use a text editor to fashion the pull request, make sure your text editor is set to remove trailing whitespace.
+- New categories, or improvements to the existing categorization, are welcome.
+- Search previous suggestions before making a new one, as yours may be a duplicate.
 
 Thank you for your suggestions!
 
